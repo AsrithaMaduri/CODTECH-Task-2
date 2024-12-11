@@ -5,6 +5,9 @@ Domain:Python Programming
 Duration:November to December 2024
 Mentor:Neela Santhosh Kumar
 
+![Screenshot 2024-12-11 084522](https://github.com/user-attachments/assets/22812a39-3479-4db9-8e40-efa442826d8b)
+
+
 OVERVIEW OF PROJECT:
 PROJECT: STUDENT GRADE TRACKER
 
